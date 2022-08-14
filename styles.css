@@ -1,0 +1,66 @@
+h1 {
+  color: lightblue;
+  font-size: 50px;
+  padding: 40px;
+}
+h2 {
+  color: lightgoldenrodyellow;
+  font-size: 60px;
+  padding: 40px;
+  position: relative;
+  top: -60;
+}
+.wind {
+  position: relative;
+  top: -280px;
+  right: 100px;
+  font-weight: 300;
+  text-align: right;
+  font-style: italic;
+  font-size: 40px;
+  color: black;
+}
+.container {
+  background: linear-gradient(to top, #09203f 0%, #537895 100%);
+  border-radius: 10px;
+  width: 800px;
+  margin-top: 29;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.col-2 {
+  font-size: 30px;
+  position: relative;
+  right: -90;
+  top: -120;
+  color: black;
+}
+.date {
+  position: relative;
+  top: -590;
+  right: -550;
+  font-size: 35px;
+  background: lightcyan;
+  margin: 0px 570px 0px 0px;
+  padding: 8px 8px 8px 8px;
+  border-radius: 4px;
+  color: lightblue;
+  text-align: center;
+}
+form {
+  font-size: 25px;
+  padding: 30px;
+}
+img {
+  position: relative;
+  top: 10;
+  left: -10;
+}
+hr {
+  opacity: 0.6;
+  background-color: black;
+  color: black;
+  height: 6px;
+}
